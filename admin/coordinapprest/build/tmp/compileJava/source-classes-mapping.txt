@@ -1,0 +1,14 @@
+com/coordinapprest/coordinapprest/models/CourseParticipantsIDs.java
+ com.coordinapprest.coordinapprest.models.CourseParticipantsIDs
+com/coordinapprest/coordinapprest/service/FirebaseInitialize.java
+ com.coordinapprest.coordinapprest.service.FirebaseInitialize
+com/coordinapprest/coordinapprest/models/Course.java
+ com.coordinapprest.coordinapprest.models.Course
+com/coordinapprest/coordinapprest/service/FirebaseService.java
+ com.coordinapprest.coordinapprest.service.FirebaseService
+com/coordinapprest/coordinapprest/controller/CourseController.java
+ com.coordinapprest.coordinapprest.controller.CourseController
+com/coordinapprest/coordinapprest/models/Subject.java
+ com.coordinapprest.coordinapprest.models.Subject
+com/coordinapprest/coordinapprest/CoordinapprestApplication.java
+ com.coordinapprest.coordinapprest.CoordinapprestApplication

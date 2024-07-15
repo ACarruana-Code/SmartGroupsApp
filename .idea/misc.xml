@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CoordinAppTestsImplementation/CoordinAppTestTutor2/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/activity_chatactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/activity_main_student.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/activity_main_teacher.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_administration_teacher.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_commonfragments_petitions.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_createinputtextcard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_createmultichoicecard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_createremindercard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_groups.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_groups_groupalchat.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_groups_singlechat.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_home_student.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_participants.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_student_groups_groupalchat.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_student_interactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_student_map.xml" value="0.20572916666666666" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_studentsevent.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_teacher_events.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_teacher_files_groupalfiles.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_teacher_files_individualfiles.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_teacher_interactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragment_teacherevent.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/fragments_teacher_files.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/roundedbutton_add.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/test.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/test_card.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/topappbar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_cards_chatmessagecenter.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_cards_chatmessageleft.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_cards_chatmessageright.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_cards_courseparticipant.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_cards_eventcard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_cards_eventcardcontainer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_cards_files_filecard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_cards_files_student_groupcontainercard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_cards_filescontainercard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_cards_groupcardstudent.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_cards_groupcardteacher.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_cards_groupsstudentcontainercard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_cards_interactivity_studentcards_inputextcard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_cards_interactivity_studentcards_interactivitycardscontainer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_creategroupitem.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_dialogs_administrategroupsdialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_dialogs_changespokerdialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_dialogs_collaborativepatternselectdialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_dialogs_createautomaticdialog.xml" value="0.33" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_dialogs_creategroupdialog.xml" value="0.20572916666666666" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_dialogs_createinputtextcarddialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_dialogs_createmultichoicecarddialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_dialogs_createremindercarddialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_dialogs_createventdialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_dialogs_groupstatisticsdialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_dialogs_individualuserstatistics.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_dialogs_nextsteppattern.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_dialogs_requestgroupdialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_dialogs_selectdisplayedcourse.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_expandablelists_courseheaderitem.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_expandablelists_subjectheaderitem.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_multichoiceoptionitem.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_participantname.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_participantspetitionlist.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_petitiongroupcard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_petitiongroupparticipant.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_selectparticipantitem.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/layout/utils_selectparticipantwithspokertitem.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documentos/WorkSpaceJava/SmartGroups-Final/app/src/main/res/menu/bottomnavigation_student_menu_map.xml" value="0.20572916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "752011386992",
+    "project_id": "coordinapptesttutor2",
+    "storage_bucket": "coordinapptesttutor2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752011386992:android:86843af16cc02dd214d4b5",
+        "android_client_info": {
+          "package_name": "com.cb.SmartGroups"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752011386992-piqd36j9k99inuln3uvghr9eknbastrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5jd1qjkmUuzjCYJIAfqkXv7fINdmZsjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752011386992-piqd36j9k99inuln3uvghr9eknbastrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752011386992:android:19c779af9ca09c1a14d4b5",
+        "android_client_info": {
+          "package_name": "com.example.coordinapptesttutor2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752011386992-piqd36j9k99inuln3uvghr9eknbastrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5jd1qjkmUuzjCYJIAfqkXv7fINdmZsjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752011386992-piqd36j9k99inuln3uvghr9eknbastrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

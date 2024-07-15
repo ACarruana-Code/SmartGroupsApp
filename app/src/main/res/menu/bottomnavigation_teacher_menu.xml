@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_teacher_interactivity"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_poll_24"
+        android:title="@string/Interactividad" />
+
+    <item
+        android:id="@+id/nav_teacher_groups"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_chat_24"
+        android:title="@string/grupos" />
+
+    <item
+        android:id="@+id/nav_teacher_files"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_filter_drama_24"
+        android:title="@string/Archivos" />
+
+    <item
+        android:id="@+id/nav_teacher_administration"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/Inicio" />
+</menu>
